@@ -1,0 +1,362 @@
+[
+  {
+    "order_id": "ORD-2025-001",
+    "pickup_location": {
+      "city": "Chicago",
+      "state": "IL",
+      "zipcode": "60601"
+    },
+    "delivery_location": {
+      "city": "Dallas",
+      "state": "TX",
+      "zipcode": "75201"
+    },
+    "weight_lbs": 28500,
+    "equipment_required": "Dry Van",
+    "commodity": "General Freight",
+    "ready_date": "2025-10-02",
+    "delivery_deadline": "2025-10-05"
+  },
+  {
+    "order_id": "ORD-2025-002",
+    "pickup_location": {
+      "city": "Los Angeles",
+      "state": "CA",
+      "zipcode": "90210"
+    },
+    "delivery_location": {
+      "city": "Phoenix",
+      "state": "AZ",
+      "zipcode": "85001"
+    },
+    "weight_lbs": 15200,
+    "equipment_required": "Electronics",
+    "commodity": "Electronics",
+    "ready_date": "2025-10-03",
+    "delivery_deadline": "2025-10-05"
+  },
+  {
+    "order_id": "ORD-2025-003",
+    "pickup_location": {
+      "city": "Atlanta",
+      "state": "GA",
+      "zipcode": "30309"
+    },
+    "delivery_location": {
+      "city": "Miami",
+      "state": "FL",
+      "zipcode": "33101"
+    },
+    "weight_lbs": 22800,
+    "equipment_required": "Refrigerated",
+    "commodity": "Food Products",
+    "ready_date": "2025-10-04",
+    "delivery_deadline": "2025-10-06"
+  },
+  {
+    "order_id": "ORD-2025-004",
+    "pickup_location": {
+      "city": "Houston",
+      "state": "TX",
+      "zipcode": "77002"
+    },
+    "delivery_location": {
+      "city": "New Orleans",
+      "state": "LA",
+      "zipcode": "70112"
+    },
+    "weight_lbs": 38900,
+    "equipment_required": "Flatbed",
+    "commodity": "Building Materials",
+    "ready_date": "2025-10-05",
+    "delivery_deadline": "2025-10-07"
+  },
+  {
+    "order_id": "ORD-2025-005",
+    "pickup_location": {
+      "city": "Detroit",
+      "state": "MI",
+      "zipcode": "48201"
+    },
+    "delivery_location": {
+      "city": "Cleveland",
+      "state": "OH",
+      "zipcode": "44101"
+    },
+    "weight_lbs": 19600,
+    "equipment_required": "Dry Van",
+    "commodity": "Automotive Parts",
+    "ready_date": "2025-10-06",
+    "delivery_deadline": "2025-10-08"
+  },
+  {
+    "order_id": "ORD-2025-006",
+    "pickup_location": {
+      "city": "San Francisco",
+      "state": "CA",
+      "zipcode": "94102"
+    },
+    "delivery_location": {
+      "city": "Seattle",
+      "state": "WA",
+      "zipcode": "98101"
+    },
+    "weight_lbs": 12400,
+    "equipment_required": "Dry Van",
+    "commodity": "Electronics",
+    "ready_date": "2025-10-07",
+    "delivery_deadline": "2025-10-10"
+  },
+  {
+    "order_id": "ORD-2025-007",
+    "pickup_location": {
+      "city": "Philadelphia",
+      "state": "PA",
+      "zipcode": "19101"
+    },
+    "delivery_location": {
+      "city": "New York",
+      "state": "NY",
+      "zipcode": "10001"
+    },
+    "weight_lbs": 25300,
+    "equipment_required": "Dry Van",
+    "commodity": "Consumer Goods",
+    "ready_date": "2025-10-08",
+    "delivery_deadline": "2025-10-10"
+  },
+  {
+    "order_id": "ORD-2025-008",
+    "pickup_location": {
+      "city": "Denver",
+      "state": "CO",
+      "zipcode": "80201"
+    },
+    "delivery_location": {
+      "city": "Salt Lake City",
+      "state": "UT",
+      "zipcode": "84101"
+    },
+    "weight_lbs": 31700,
+    "equipment_required": "Refrigerated",
+    "commodity": "Food Products",
+    "ready_date": "2025-10-09",
+    "delivery_deadline": "2025-10-11"
+  },
+  {
+    "order_id": "ORD-2025-009",
+    "pickup_location": {
+      "city": "Jacksonville",
+      "state": "FL",
+      "zipcode": "32201"
+    },
+    "delivery_location": {
+      "city": "Charlotte",
+      "state": "NC",
+      "zipcode": "28201"
+    },
+    "weight_lbs": 42100,
+    "equipment_required": "Flatbed",
+    "commodity": "Building Materials",
+    "ready_date": "2025-10-10",
+    "delivery_deadline": "2025-10-13"
+  },
+  {
+    "order_id": "ORD-2025-010",
+    "pickup_location": {
+      "city": "Memphis",
+      "state": "TN",
+      "zipcode": "38101"
+    },
+    "delivery_location": {
+      "city": "Nashville",
+      "state": "TN",
+      "zipcode": "37201"
+    },
+    "weight_lbs": 18900,
+    "equipment_required": "Dry Van",
+    "commodity": "General Freight",
+    "ready_date": "2025-10-11",
+    "delivery_deadline": "2025-10-13"
+  },
+  {
+    "order_id": "ORD-2025-011",
+    "pickup_location": {
+      "city": "Kansas City",
+      "state": "MO",
+      "zipcode": "64101"
+    },
+    "delivery_location": {
+      "city": "Oklahoma City",
+      "state": "OK",
+      "zipcode": "73101"
+    },
+    "weight_lbs": 26800,
+    "equipment_required": "Dry Van",
+    "commodity": "Consumer Goods",
+    "ready_date": "2025-10-12",
+    "delivery_deadline": "2025-10-14"
+  },
+  {
+    "order_id": "ORD-2025-012",
+    "pickup_location": {
+      "city": "Portland",
+      "state": "OR",
+      "zipcode": "97201"
+    },
+    "delivery_location": {
+      "city": "Sacramento",
+      "state": "CA",
+      "zipcode": "95814"
+    },
+    "weight_lbs": 35400,
+    "equipment_required": "Refrigerated",
+    "commodity": "Food Products",
+    "ready_date": "2025-10-13",
+    "delivery_deadline": "2025-10-16"
+  },
+  {
+    "order_id": "ORD-2025-013",
+    "pickup_location": {
+      "city": "Columbus",
+      "state": "OH",
+      "zipcode": "43201"
+    },
+    "delivery_location": {
+      "city": "Indianapolis",
+      "state": "IN",
+      "zipcode": "46201"
+    },
+    "weight_lbs": 21500,
+    "equipment_required": "Dry Van",
+    "commodity": "Automotive Parts",
+    "ready_date": "2025-10-14",
+    "delivery_deadline": "2025-10-16"
+  },
+  {
+    "order_id": "ORD-2025-014",
+    "pickup_location": {
+      "city": "San Antonio",
+      "state": "TX",
+      "zipcode": "78201"
+    },
+    "delivery_location": {
+      "city": "Austin",
+      "state": "TX",
+      "zipcode": "73301"
+    },
+    "weight_lbs": 14700,
+    "equipment_required": "Dry Van",
+    "commodity": "Electronics",
+    "ready_date": "2025-10-15",
+    "delivery_deadline": "2025-10-17"
+  },
+  {
+    "order_id": "ORD-2025-015",
+    "pickup_location": {
+      "city": "Milwaukee",
+      "state": "WI",
+      "zipcode": "53201"
+    },
+    "delivery_location": {
+      "city": "Minneapolis",
+      "state": "MN",
+      "zipcode": "55401"
+    },
+    "weight_lbs": 29300,
+    "equipment_required": "Refrigerated",
+    "commodity": "Food Products",
+    "ready_date": "2025-10-16",
+    "delivery_deadline": "2025-10-18"
+  },
+  {
+    "order_id": "ORD-2025-016",
+    "pickup_location": {
+      "city": "Las Vegas",
+      "state": "NV",
+      "zipcode": "89101"
+    },
+    "delivery_location": {
+      "city": "Albuquerque",
+      "state": "NM",
+      "zipcode": "87101"
+    },
+    "weight_lbs": 37600,
+    "equipment_required": "Flatbed",
+    "commodity": "Building Materials",
+    "ready_date": "2025-10-17",
+    "delivery_deadline": "2025-10-20"
+  },
+  {
+    "order_id": "ORD-2025-017",
+    "pickup_location": {
+      "city": "Richmond",
+      "state": "VA",
+      "zipcode": "23219"
+    },
+    "delivery_location": {
+      "city": "Baltimore",
+      "state": "MD",
+      "zipcode": "21201"
+    },
+    "weight_lbs": 23100,
+    "equipment_required": "Dry Van",
+    "commodity": "General Freight",
+    "ready_date": "2025-10-18",
+    "delivery_deadline": "2025-10-20"
+  },
+  {
+    "order_id": "ORD-2025-018",
+    "pickup_location": {
+      "city": "Tampa",
+      "state": "FL",
+      "zipcode": "33601"
+    },
+    "delivery_location": {
+      "city": "Orlando",
+      "state": "FL",
+      "zipcode": "32801"
+    },
+    "weight_lbs": 16800,
+    "equipment_required": "Dry Van",
+    "commodity": "Consumer Goods",
+    "ready_date": "2025-10-19",
+    "delivery_deadline": "2025-10-21"
+  },
+  {
+    "order_id": "ORD-2025-019",
+    "pickup_location": {
+      "city": "Buffalo",
+      "state": "NY",
+      "zipcode": "14201"
+    },
+    "delivery_location": {
+      "city": "Pittsburgh",
+      "state": "PA",
+      "zipcode": "15201"
+    },
+    "weight_lbs": 33900,
+    "equipment_required": "Flatbed",
+    "commodity": "Building Materials",
+    "ready_date": "2025-10-20",
+    "delivery_deadline": "2025-10-23"
+  },
+  {
+    "order_id": "ORD-2025-020",
+    "pickup_location": {
+      "city": "Phoenix",
+      "state": "AZ",
+      "zipcode": "85001"
+    },
+    "delivery_location": {
+      "city": "Tucson",
+      "state": "AZ",
+      "zipcode": "85701"
+    },
+    "weight_lbs": 20400,
+    "equipment_required": "Refrigerated",
+    "commodity": "Food Products",
+    "ready_date": "2025-10-21",
+    "delivery_deadline": "2025-10-23"
+  }
+]
